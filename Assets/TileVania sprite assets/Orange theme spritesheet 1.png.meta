@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 309ac3eb4cc441349b63128366ca98b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: OT Bullet 1
+  - first:
+      213: 21300002
+    second: OT Bullet 2
+  - first:
+      213: 21300004
+    second: OT Bullet 3
+  - first:
+      213: 21300006
+    second: OT Bullet 4
+  - first:
+      213: 21300008
+    second: OT Bullet 5
+  - first:
+      213: 21300010
+    second: OT Bullet 6
+  - first:
+      213: 21300012
+    second: OT Bullet 7
+  - first:
+      213: 21300014
+    second: OT Bullet 8
+  - first:
+      213: 21300016
+    second: OT Bullet 9
+  - first:
+      213: 21300018
+    second: OT Bullet 10
+  - first:
+      213: 21300020
+    second: OT Handgrenade 1
+  - first:
+      213: 21300022
+    second: OT Handgrenade 2
+  - first:
+      213: 21300024
+    second: OT Tank 1
+  - first:
+      213: 21300026
+    second: OT Handgrenade 3
+  - first:
+      213: 21300028
+    second: OT Handgrenade 4
+  - first:
+      213: 21300030
+    second: OT Handgrenade 5
+  - first:
+      213: 21300032
+    second: OT Handgrenade 6
+  - first:
+      213: 21300034
+    second: OT Handgrenade 7
+  - first:
+      213: 21300036
+    second: OT Handgrenade 8
+  - first:
+      213: 21300038
+    second: OT Handgrenade 9
+  - first:
+      213: 21300040
+    second: OT Tank 2
+  - first:
+      213: 21300042
+    second: OT Jet 1
+  - first:
+      213: 21300044
+    second: OT Jet 2
+  - first:
+      213: 21300046
+    second: OT Explosive
+  - first:
+      213: 21300048
+    second: OT Explosive remote
+  - first:
+      213: 21300050
+    second: OT Healthpack
+  - first:
+      213: 21300052
+    second: OT Health
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Web
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3446
+        width: 184
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014206811287473409e4a940a2f2b49b
+      internalID: -43237405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3446
+        width: 192
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8fab34c5717144a9c7701a6845e43c
+      internalID: 1716667034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3446
+        width: 188
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bba22a1663a2e4479c3453d33149259
+      internalID: 1464830147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3446
+        width: 188
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37237abe1df24b46a159431501e638a
+      internalID: -1608866921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3446
+        width: 220
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf212fafef0df4cae3a75b55314174
+      internalID: -1251272158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 3374
+        width: 464
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f64621d026d3a4295e722662c60cef
+      internalID: -660447668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 3370
+        width: 460
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59bc3b32d7088545b378ac9adf0b966
+      internalID: -2050688213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 3710
+        width: 292
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a471ee278a0aa47a4e4cdabb677fa6
+      internalID: -1396252188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 3418
+        width: 376
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b607d93801e7044ba4a253c4543969
+      internalID: -125861038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 3602
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4431be3f03651974ab5b18b3cb948b42
+      internalID: -1019256630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 3494
+        width: 332
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f37405a69e2c7946b7b03db27d8f4c9
+      internalID: 938529418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2418
+        width: 172
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63d1beb8db2ffd4ea01e75d8114fbb2
+      internalID: 1265809322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 3402
+        width: 268
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605a61ed81166f74a93fad044845e4f7
+      internalID: 1689140848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2418
+        width: 112
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa3b92a313520944854ef63840b21e7
+      internalID: 2137935452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2418
+        width: 244
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff21d4b538282d4fb1d2e23b4699ef1
+      internalID: 2028823193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2418
+        width: 240
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d875a23995f664dab389d992a2b7cb
+      internalID: 1428009447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2414
+        width: 200
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95362085faf2ca4f8cfb541a128ce6e
+      internalID: 722692333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 2482
+        width: 420
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e253cdd395731488d28c9c6d95ba0d
+      internalID: 1743255926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 2482
+        width: 424
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ce8be7148d394abba78bd072b3b54
+      internalID: 1699449682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 2486
+        width: 428
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076db742eb08f34cb5174a8e1a16f98
+      internalID: -321194597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 2658
+        width: 424
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9067cdefc9ff264bb569002c6a676c0
+      internalID: 1238915546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 2490
+        width: 256
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0368cd7085d687489fdbae8aabe582d
+      internalID: 663211588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1834
+        width: 1060
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a38ee468faeea4693c089f822218cf
+      internalID: 1556321800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1670
+        width: 448
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4162866d824e4198bc07d226017ea
+      internalID: 539603973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1694
+        width: 604
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a063f778fffcf494bb5b76f326ce8aad
+      internalID: 1788264856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 1670
+        width: 620
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9c8a8bc4f4ae489f91c6357103880
+      internalID: -1559568422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1250
+        width: 1060
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd997ed93bd79ea46aecede3580e636b
+      internalID: -681779957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 858
+        width: 336
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934a1f856b5068d49b0daf47df21ea1b
+      internalID: 130411211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 858
+        width: 828
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053c3e2127201a24daa809bc463c5c70
+      internalID: 2023161743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 534
+        width: 872
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d466643729acf49b53da56efa16917
+      internalID: 1820340549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 178
+        width: 452
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7358f2adf4bd48841481f3552db29
+      internalID: -2046305666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 94
+        width: 624
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f8277234816f479f9cf090bd6e228
+      internalID: 1122883832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange theme spritesheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 1338
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5ca1d30bee5648af92c7d8ad2d33f
+      internalID: -1329717032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 552cc895990867548a694f9593439d03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Orange theme spritesheet 1_0: -43237405
+      Orange theme spritesheet 1_1: 1716667034
+      Orange theme spritesheet 1_10: 938529418
+      Orange theme spritesheet 1_11: 1265809322
+      Orange theme spritesheet 1_12: 1689140848
+      Orange theme spritesheet 1_13: 2137935452
+      Orange theme spritesheet 1_14: 2028823193
+      Orange theme spritesheet 1_15: 1428009447
+      Orange theme spritesheet 1_16: 722692333
+      Orange theme spritesheet 1_17: 1743255926
+      Orange theme spritesheet 1_18: 1699449682
+      Orange theme spritesheet 1_19: -321194597
+      Orange theme spritesheet 1_2: 1464830147
+      Orange theme spritesheet 1_20: 1238915546
+      Orange theme spritesheet 1_21: 663211588
+      Orange theme spritesheet 1_22: 1556321800
+      Orange theme spritesheet 1_23: 539603973
+      Orange theme spritesheet 1_24: 1788264856
+      Orange theme spritesheet 1_25: -1559568422
+      Orange theme spritesheet 1_26: -681779957
+      Orange theme spritesheet 1_27: 130411211
+      Orange theme spritesheet 1_28: 2023161743
+      Orange theme spritesheet 1_29: 1820340549
+      Orange theme spritesheet 1_3: -1608866921
+      Orange theme spritesheet 1_30: -2046305666
+      Orange theme spritesheet 1_31: 1122883832
+      Orange theme spritesheet 1_32: -1329717032
+      Orange theme spritesheet 1_4: -1251272158
+      Orange theme spritesheet 1_5: -660447668
+      Orange theme spritesheet 1_6: -2050688213
+      Orange theme spritesheet 1_7: -1396252188
+      Orange theme spritesheet 1_8: -125861038
+      Orange theme spritesheet 1_9: -1019256630
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
