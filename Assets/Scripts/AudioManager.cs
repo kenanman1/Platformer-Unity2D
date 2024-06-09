@@ -5,6 +5,8 @@ using UnityEngine;
 public class AudioManager : MonoBehaviour
 {
     [SerializeField] AudioSource coinSound;
+    [SerializeField] AudioSource mainMenuSound;
+
     public static AudioManager instance;
 
     private void Awake()
@@ -20,14 +22,18 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Destroy()
     {
-        
+        Destroy(gameObject);
     }
 
     public void PlayCoinSound()
     {
         coinSound.Play();
+    }
+
+    public void PlayMainMenuSound()
+    {
+        mainMenuSound.Play();
     }
 }
